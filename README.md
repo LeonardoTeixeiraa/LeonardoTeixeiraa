@@ -23,9 +23,10 @@
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624"/>
 </p>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTeixeiraa&layout=compact&langs_count=8&theme=radical) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTeixeiraa&layout=compact&langs_count=8&theme=radical)
+![Github Streak](https://streak-stats.demolab.com?user=LeonardoTeixeiraa&theme=github-dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoTeixeiraa&theme=github-dark)
+
 
 
 ## Contatos
