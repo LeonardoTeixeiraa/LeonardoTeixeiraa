@@ -24,8 +24,7 @@
 </p>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTeixeiraa&layout=compact&langs_count=8&theme=radical)
-![](https://streak-stats.demolab.com?user=LeonardoTeixeiraa&theme=github-dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LeonaroTeixeiraa)](https://git.io/streak-stats)
 ## Contatos
 📧 E-mail: nardotp18@gmail.com
 <br>
