@@ -23,8 +23,11 @@
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624"/>
 </p>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTeixeiraa&layout=compact&langs_count=8&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LeonaroTeixeiraa)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTeixeiraa&layout=compact&langs_count=8&theme=radical" alt="Most used languages"/>
+</p>
+
+
 ## Contatos
 📧 E-mail: nardotp18@gmail.com
 <br>
