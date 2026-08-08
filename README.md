@@ -1,38 +1,51 @@
-### Olá, eu sou o Leonardo Teixeira 👋
+# Leonardo Teixeira
+**`Software Developer`**
 
-## Sobre mim
+## About me
+Backend Software developer focused on building Java applications with Spring Boot, emphasizing clean architecture, REST APIs, relational databases and containerized environments.
 
-🎓 Atualmente, curso **Bacharelado em Sistemas de Informação** e estou totalmente imerso no ramo da tecnologia. Sempre busco expandir meus conhecimentos e aprimorar minhas habilidades, especialmente nas áreas de **Desenvolvimento de Software e Cibersegurança**.
+Currently pursuing a Bachelor's degree in Information Systems at IFSP, I develop projects involving backend applications, REST APIs, while expanding my knowledge in software architecture, cloud technologies and application security.
 
-🌱 Recentemente estou focado em aprimorar minhas habilidades na linguagem **Java** com foco no Desenvolvimento Web utilizando o **Spring Framework**. Tenho sólidos conhecimentos em **Programação Orientada a Objetos(POO)** e no **padrão de arquitetura MVC**.
+I am also interested in applied Artificial Intelligence, particularly where it complements software engineering through intelligent automation, data processing and workflow optimization. My goal is to build reliable, maintainable and scalable systems by combining solid engineering principles with continuous learning and practical problem solving.
 
-💡 Gosto de estar sempre em constante aprendizado e melhoria, resolvendo os problemas de forma eficiente, e compartilhando conhecimento. Além disso, sou uma pessoa comunicativa e colaborativa, sempre disposto a ajudar quando necessário.
-
-## Ferramentas e Linguagens
-
-<p>
-<div align="left">
+##  Languages & Frameworks
+<p> 
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>  
+
+###
+
+## Tools
+<p>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
 </div>
 </p>
 
@@ -48,7 +61,7 @@
 </div>
 
 
-## Contatos
+## Contacts
 <p align="left">
   <a href="mailto:nardotp18@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail"/>
